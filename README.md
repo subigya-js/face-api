@@ -29,7 +29,7 @@ A fully client-side face recognition built using **Next.js (App Router)**, **Typ
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/face-attendance-system.git
+git clone https://github.com/subigya-js/face-attendance-system.git
 ```
 
 ```
