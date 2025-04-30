@@ -33,7 +33,7 @@ git clone https://github.com/subigya-js/face-api.git
 ```
 
 ```
-cd face-attendance-system
+cd face-api
 ```
 
 ```
